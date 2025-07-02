@@ -15,17 +15,27 @@ The interface is user-friendly and helps beginners understand how Java GUI works
 ## 📂 How to Run
 1. Open the project in any Java IDE or VS Code.
 2. Compile using:
-   ```
-   javac ToDoApp.java
-   ```
-3. Run using:
-   ```
-   java ToDoApp
-   ```
+3.  Run using:
+
 
 ## 📁 Files
 - `ToDoApp.java` – Full GUI code using `JFrame`, `JButton`, `JTextField`, and `JList`.
 
 ---
 
+## 📸 Screenshots
+
+### ✅ Add Task
+Type a task and click "Add Task" to insert it into the list.
+
+![Add Task](https://i.imgur.com/Ys2Lb1q.png)
+
+### ❌ Delete Task
+Select a task and click "Delete Task" to remove it from the list.
+
+![Delete Task](https://i.imgur.com/75LAn6g.png)
+
+---
+
 Stay organized with your own To-Do app! ✨📝
+
