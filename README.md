@@ -33,7 +33,7 @@ Type a task and click "Add Task" to insert it into the list.
 ### ❌ Delete Task
 Select a task and click "Delete Task" to remove it from the list.
 
-![Delete Task](https://i.imgur.com/75LAn6g.png)
+![Delete Task](https://github.com/9A-Ayush/task-6-To-do-app-/blob/main/ss/Screenshot%202025-07-02%20205228.png)
 
 ---
 
