@@ -28,7 +28,7 @@ The interface is user-friendly and helps beginners understand how Java GUI works
 ### ✅ Add Task
 Type a task and click "Add Task" to insert it into the list.
 
-![Add Task](https://i.imgur.com/Ys2Lb1q.png)
+![Add Task](https://github.com/9A-Ayush/task-6-To-do-app-/blob/main/ss/Screenshot%202025-07-02%20205212.png)
 
 ### ❌ Delete Task
 Select a task and click "Delete Task" to remove it from the list.
